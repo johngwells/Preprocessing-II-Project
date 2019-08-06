@@ -182,7 +182,6 @@ nav {
 }
 @media (max-width: 500px) {
   nav {
-<<<<<<< HEAD
     width: 100%;
     padding-right: 7%;
   }
@@ -190,10 +189,6 @@ nav {
 @media (max-width: 400px) {
   nav {
     width: 100%;
-=======
-    width: 90%;
-    padding-right: 10%;
->>>>>>> master
   }
 }
 a {
@@ -207,7 +202,6 @@ a {
 @media (max-width: 500px) {
   a {
     font-size: 1.5rem;
-<<<<<<< HEAD
     margin: 0 auto;
     padding-left: 7%;
   }
@@ -217,8 +211,6 @@ a {
     font-size: 1.4rem;
     margin: 0 auto;
     padding-left: 5%;
-=======
->>>>>>> master
   }
 }
 .btn {
