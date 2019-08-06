@@ -201,14 +201,14 @@ a {
 }
 @media (max-width: 500px) {
   a {
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     margin: 0 auto;
     padding-left: 7%;
   }
 }
 @media (max-width: 400px) {
   a {
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     margin: 0 auto;
     padding-left: 5%;
   }
@@ -220,7 +220,7 @@ a {
   color: #FFFFFF;
   width: 200px;
   height: 50px;
-  padding-top: 11px;
+  padding-top: 13px;
   border: 1px solid;
   border-radius: 10px;
   background: #17A2B8;
