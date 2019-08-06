@@ -248,8 +248,7 @@ a {
 }
 @media (max-width: 780px) {
   .container {
-    margin-left: 2%;
-    padding-right: 4%;
+    padding: 0 2%;
   }
 }
 @media (max-width: 500px) {
